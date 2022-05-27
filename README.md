@@ -13,3 +13,9 @@
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=niel-conradie&show_icons=true&count_private=true&theme=merko" height="165">
 </a>
+
+### Languages
+
+<a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&layout=compact&theme=merko&hide=css,html,jupyter%20notebook" height="165">
+</a>

@@ -1,8 +1,8 @@
 <a href="#">
-  <img src="https://github.com/niel-conradie/niel-conradie/raw/main/logo.jpg" height="200" width="100%">
+  <img src="https://github.com/niel-conradie/niel-conradie/raw/main/logo.jpg" height="225" width="100%">
 </a>
 
-### Contact
+## Contact
 
 [![Website](https://img.shields.io/badge/Niel-Conradie-3A8EED?style=for-the-badge&style=social&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)]()

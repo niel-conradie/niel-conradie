@@ -1,5 +1,5 @@
 <a href="#">
-  <img src="https://github.com/niel-conradie/niel-conradie/raw/main/logo.jpg" height="225" width="100%">
+  <img src="https://github.com/niel-conradie/niel-conradie/raw/master/logo.jpg" height="225" width="100%">
 </a>
 
 ### Contact

@@ -12,18 +12,14 @@
 
 ---
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&layout=compact&theme=dark&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&bg_color=0d1117&hide=jupyter%20notebook")](#) -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&layout=compact&theme=dark&title_color=fff&text_color=fff&bg_color=0d1117&hide=jupyter%20notebook" width="100%" height="175px"> -->
-
 <!-- Github Stats -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=niel-conradie&theme=transparent&title_color=fff&text_color=fff&icon_color=4c71f2&border_color=e4e2e2"
+    srcset="https://github-readme-stats.vercel.app/api?username=niel-conradie&theme=transparent&title_color=f0f6fc&text_color=f0f6fc&border_color=30363d"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=niel-conradie&theme=transparent&title_color=000&text_color=000&icon_color=4c71f2&border_color=333"
+    srcset="https://github-readme-stats.vercel.app/api?username=niel-conradie&theme=transparent&title_color=1f2328&text_color=1f2328&&border_color=d0d7de"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=niel-conradie" />
@@ -32,11 +28,11 @@
 <!-- Top Languages -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&theme=transparent&layout=compact&langs_count=8&card_width=320&title_color=fff&text_color=fff&border_color=e4e2e2"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&theme=transparent&layout=compact&langs_count=8&card_width=320&title_color=f0f6fc&text_color=f0f6fc&border_color=30363d"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&theme=transparent&layout=compact&langs_count=8&card_width=320&title_color=000&text_color=000&border_color=333"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&theme=transparent&layout=compact&langs_count=8&card_width=320&title_color=1f2328&text_color=1f2328&border_color=d0d7de"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niel-conradie&layout=compact&langs_count=8&card_width=320" />

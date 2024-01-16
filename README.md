@@ -1,33 +1,14 @@
-<style>
-  h1 {
-    padding-bottom: 20px;
-    text-align: center;
-    color: #fff;
-    pointer-events: none;
-  }
+<p style="padding: 10px;font-size: 25px;font-weight: bold;text-align: center;color: #fff;pointer-events: none;">Welcome to my GitHub</p>
 
-  .languages {
-    margin: 25px auto 20px auto;
-    width: 100%;
-    text-align: center;
-  }
-
-  .most-used-languages {
-    height: 175px;
-    margin: 20px auto 12px auto;
-    width: 100%;
-  }
-</style>
-
-<h1>Welcome to my GitHub</h1>
+---
 
 <a href="https://niel-conradie.github.io/" target="_blank">
-  <img src="https://github.com/niel-conradie/niel-conradie/raw/main/logo.jpg" width="100%" height="225px">
+  <img src="https://github.com/niel-conradie/niel-conradie/raw/main/images/logo.jpg" width="100%" height="225px">
 </a>
 
 ---
 
-<div class="languages">
+<div style="margin: 25px auto 15px auto;width: 100%;text-align: center;">
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=0d1117?)
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -39,7 +20,7 @@
 
 ---
 
-<img class="most-used-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&layout=compact&theme=dark&title_color=fff&text_color=fff&bg_color=0d1117&hide=jupyter%20notebook">
+<img style="margin: 20px auto 12px auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&layout=compact&theme=dark&title_color=fff&text_color=fff&bg_color=0d1117&hide=jupyter%20notebook" width="100%" height="175px">
 
 ---
 

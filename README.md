@@ -1,5 +1,3 @@
-# **Welcome to my GitHub**
-
 <a href="https://niel-conradie.github.io/">
   <img src="https://github.com/niel-conradie/niel-conradie/raw/main/images/banner.jpg" width="100%" height="225px">
 </a>
@@ -21,35 +19,27 @@
 <!-- Github Stats -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=niel-conradie&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=niel-conradie&theme=dark&title_color=fff&text_color=fff&icon_color=4c71f2&border_color=e4e2e2&bg_color=333"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=niel-conradie"
+    srcset="https://github-readme-stats.vercel.app/api?username=niel-conradie&title_color=fff&text_color=fff&icon_color=4c71f2&border_color=e4e2e2&bg_color=333"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=niel-conradie" />
 </picture>
 
-<!-- <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=niel-conradie" />
-</a> -->
-
 <!-- Top Languages -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&theme=dark&layout=compact&langs_count=8&card_width=320"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&theme=dark&layout=compact&langs_count=8&card_width=320&title_color=fff&text_color=fff&border_color=e4e2e2&bg_color=333"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&layout=compact&langs_count=8&card_width=320"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niel-conradie&layout=compact&langs_count=8&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niel-conradie&layout=compact&langs_count=8&card_width=320" />
 </picture>
-
-<!-- <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a> -->
 
 ---

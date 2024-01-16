@@ -19,7 +19,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&layout=compact&theme=dark&title_color=fff&text_color=fff&bg_color=0d1117&hide=jupyter%20notebook" width="100%" height="175px"> -->
 
 <!-- Github Stats -->
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=niel-conradie&theme=dark&show_icons=true"
     media="(prefers-color-scheme: dark)"
@@ -29,10 +29,10 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=niel-conradie&show_icons=true" />
-</picture>
+</picture> -->
 
 <!-- Top Languages -->
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&theme=dark&layout=compact&langs_count=8&card_width=320"
     media="(prefers-color-scheme: dark)"
@@ -42,6 +42,13 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&layout=compact&langs_count=8&card_width=320" />
-</picture>
+</picture> -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=niel-conradie" />
+</a>
+<a href="https://github.com/niel-conradie/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ---

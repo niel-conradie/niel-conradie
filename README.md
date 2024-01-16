@@ -19,33 +19,31 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&layout=compact&theme=dark&title_color=fff&text_color=fff&bg_color=0d1117&hide=jupyter%20notebook" width="100%" height="175px"> -->
 
 <div>
+  <!-- Top Languages -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=niel-conradie&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&layout=compact&show_icons=true&theme=dark&title_color=fff&text_color=fff"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&layout=compact&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&layout=compact&show_icons=true" />
+  </picture>
+  
+  <!-- Github Stats -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=niel-conradie&show_icons=true&theme=dark&title_color=fff&text_color=fff"
       media="(prefers-color-scheme: dark)"
     />
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=niel-conradie&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align=top src="https://github-readme-stats.vercel.app/api?username=niel-conradie&show_icons=true" />
-  </picture>
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&show_icons=true" />
+    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=niel-conradie&show_icons=true" />
   </picture>
 <div>
 
 ---
-
-<!-- [![Website](https://img.shields.io/badge/Niel-Conradie-3A8EED?style=for-the-badge&style=social&logoColor=white)](https://github.com/niel-conradie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://github.com/niel-conradie)
-[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/niel_conradie) -->

@@ -31,6 +31,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=niel-conradie" />
 </picture>
 
+<!-- <a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=niel-conradie" />
+</a> -->
+
 <!-- Top Languages -->
 <picture>
   <source
@@ -41,7 +45,11 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&layout=compact&langs_count=8&card_width=320"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niel-conradie&layout=compact&langs_count=8&card_width=320" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niel-conradie&layout=compact&langs_count=8&card_width=320" />
 </picture>
+
+<!-- <a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a> -->
 
 ---

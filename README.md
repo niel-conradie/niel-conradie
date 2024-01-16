@@ -4,7 +4,7 @@
   <img src="https://github.com/niel-conradie/niel-conradie/raw/main/images/banner.jpg" width="100%" height="225px">
 </a>
 
-<hr />
+---
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=0d1117?)
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -12,11 +12,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Sass](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=CC6699)
 
-<hr />
+---
 
-<img style="margin: 20px auto 12px auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&layout=compact&theme=dark&title_color=fff&text_color=fff&bg_color=0d1117&hide=jupyter%20notebook" width="100%" height="175px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&layout=compact&theme=dark&title_color=fff&text_color=fff&bg_color=0d1117&hide=jupyter%20notebook" width="100%" height="175px">
 
-<hr />
+---
 
 <!-- [![Website](https://img.shields.io/badge/Niel-Conradie-3A8EED?style=for-the-badge&style=social&logoColor=white)](https://github.com/niel-conradie)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://github.com/niel-conradie)

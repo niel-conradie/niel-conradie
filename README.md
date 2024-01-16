@@ -10,6 +10,18 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
 [![Sass](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=CC6699)](#)
 
+<picture>
+  <source
+    srcset="https://img.shields.io/badge/Sass-30363d?style=for-the-badge&logo=sass&logoColor=cc6699"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://img.shields.io/badge/Sass-d0d7de?style=for-the-badge&logo=sass&logoColor=cc6699"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://img.shields.io/badge/" />
+</picture>
+
 ---
 
 <!-- Github Stats -->
@@ -19,7 +31,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=niel-conradie&theme=transparent&title_color=1f2328&text_color=1f2328&&border_color=d0d7de"
+    srcset="https://github-readme-stats.vercel.app/api?username=niel-conradie&theme=transparent&title_color=1f2328&text_color=1f2328&border_color=d0d7de"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=niel-conradie" />

@@ -18,32 +18,30 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&layout=compact&theme=dark&title_color=fff&text_color=fff&bg_color=0d1117&hide=jupyter%20notebook" width="100%" height="175px"> -->
 
-<div>
-  <!-- Top Languages -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&layout=compact&show_icons=true&theme=dark&title_color=fff&text_color=fff"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&layout=compact&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&layout=compact&show_icons=true" />
-  </picture>
-  
-  <!-- Github Stats -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=niel-conradie&show_icons=true&theme=dark&title_color=fff&text_color=fff"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=niel-conradie&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=niel-conradie&show_icons=true" />
-  </picture>
-<div>
+<!-- Top Languages -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&theme=dark&layout=compact&langs_count=8&card_width=320"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&layout=compact&langs_count=8&card_width=320"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-conradie&layout=compact&langs_count=8&card_width=320" />
+</picture>
+
+<!-- Github Stats -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=niel-conradie&theme=dark&show_icons=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=niel-conradie&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=niel-conradie&show_icons=true" />
+</picture>
 
 ---

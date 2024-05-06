@@ -1,7 +1,9 @@
 <!-- Banner -->
-<a href="https://niel-conradie.github.io/">
+<!-- <a href="https://niel-conradie.github.io/">
   <img src="https://github.com/niel-conradie/niel-conradie/raw/main/images/banner.jpg" width="100%" height="225px">
 </a>
+
+--- -->
 
 ---
 
@@ -66,10 +68,24 @@
   <img src="#" />
 </picture>
 
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+</p> -->
+
 ---
 
 <!-- Github Stats -->
-<!-- <picture>
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=niel-conradie&theme=transparent&title_color=f0f6fc&text_color=f0f6fc&border_color=30363d"
     media="(prefers-color-scheme: dark)"
@@ -79,7 +95,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=niel-conradie" />
-</picture> -->
+</picture>
 
 <!-- Top Languages -->
 <picture>
